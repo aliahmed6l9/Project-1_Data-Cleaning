@@ -1,0 +1,13 @@
+Project 1_Data Cleaning/
+ │
+ ├── Data/
+ │   ├── Raw Data/
+ │   │   └── Raw_Dataset_for_Data_Analytics.xlsx
+ │   │
+ │   └── Processed Data/
+ │       └── Cleaned_Dataset.xlsx                    
+ │
+ ├── Data Cleaning.ipynb  
+ ├── requirements.txt  
+ ├── Repository.txt                          
+ └── README.md  
