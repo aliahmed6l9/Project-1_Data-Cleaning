@@ -101,44 +101,6 @@ Total Price = Quantity × Unit Price
 
 # 🔄 Project Workflow
 
-```text
-Raw Dataset
-      │
-      ▼
-Import Dataset
-      │
-      ▼
-Data Exploration
-      │
-      ▼
-Missing Value Analysis
-      │
-      ▼
-Duplicate Detection
-      │
-      ▼
-Data Cleaning
-      │
-      ▼
-Text Standardization
-      │
-      ▼
-Data Type Validation
-      │
-      ▼
-Business Rule Validation
-      │
-      ▼
-Outlier Detection
-      │
-      ▼
-Export Clean Dataset
-```
-
----
-
-# 🖼️ Project Workflow Diagram
-
 ![Project Workflow](Data%20cleaning%20workflow%20infographic.png)
 
 ---
@@ -281,7 +243,7 @@ This project was developed for educational and portfolio purposes as part of my 
 
 # 👨‍💻 Author
 
-**Shakeel Ahmad**
+**Ali Ahmad**
 
 - 🎓 Software Engineering Student
 - 📊 Aspiring Data Analyst
