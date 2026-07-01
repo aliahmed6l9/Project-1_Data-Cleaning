@@ -1,9 +1,8 @@
-````markdown
 # 🧹 Data Cleaning & Preprocessing using Python (Pandas)
 
-## 📊 Data Analytics Internship Project – DecodeLabs
+## Data Analytics Internship Project – DecodeLabs
 
-A complete **Data Cleaning & Preprocessing** project performed on a raw transactional dataset using **Python**, **Pandas**, and **Jupyter Notebook**. The project focuses on improving data quality, handling missing values, validating business rules, and preparing the dataset for **Exploratory Data Analysis (EDA)**.
+A complete data cleaning and preprocessing project performed on a raw transactional dataset using **Python**, **Pandas**, and **Jupyter Notebook**. The project focuses on improving data quality, handling missing values, validating business rules, and preparing the dataset for Exploratory Data Analysis (EDA).
 
 ---
 
@@ -13,10 +12,10 @@ Data cleaning is one of the most critical stages in the data analytics lifecycle
 
 The dataset consists of **1,200 transactional records** containing customer purchases and related information. Throughout the project, several preprocessing techniques were applied to improve data consistency, integrity, and usability.
 
-### 🔍 Key Implementations
+### The project demonstrates practical implementation of:
 
 - 📥 Data Import & Exploration
-- 🔎 Missing Value Analysis
+- 🔍 Missing Value Analysis
 - 🔄 Duplicate Detection
 - 🧹 Text Cleaning & Standardization
 - 📅 Data Type Validation
@@ -45,25 +44,25 @@ The dataset consists of **1,200 transactional records** containing customer purc
 
 ## 📂 Data Exploration
 
-- Dataset Overview
-- Shape & Dimensions
-- Column Information
-- Summary Statistics
+- Dataset overview
+- Shape and dimensions
+- Column information
+- Summary statistics
 
 ## 🧹 Data Cleaning
 
-- Missing Value Identification
-- Missing Value Treatment
-- Duplicate Record Detection
-- Whitespace Removal
-- Text Standardization
-- Data Consistency Checks
+- Missing value identification
+- Missing value treatment
+- Duplicate record detection
+- Whitespace removal
+- Text standardization
+- Data consistency checks
 
 ## 📅 Data Type Validation
 
-- Date Conversion
-- Numeric Field Validation
-- Object Field Inspection
+- Date conversion
+- Numeric field validation
+- Object field inspection
 
 ## 📊 Business Rule Validation
 
@@ -73,7 +72,7 @@ Verified the following business rule:
 Total Price = Quantity × Unit Price
 ```
 
-- Generated an `Expected_Total` validation column
+- Created a validation column (`Expected_Total`)
 - Detected mismatched records
 
 ## 📈 Outlier Detection
@@ -81,10 +80,10 @@ Total Price = Quantity × Unit Price
 - Interquartile Range (IQR) Method
 - Identification of unusual values
 
-## 📤 Dataset Export
+## 📤 Export
 
-- Exported cleaned dataset
-- Prepared dataset for EDA and visualization
+- Saved cleaned dataset
+- Prepared data for EDA and visualization
 
 ---
 
@@ -92,10 +91,10 @@ Total Price = Quantity × Unit Price
 
 | Description | Value |
 |-------------|------:|
-| Total Records | **1,200** |
-| Total Features | **14** |
-| Missing Coupon Codes | **309** |
-| Duplicate Records | **0** |
+| Total Records | 1,200 |
+| Total Features | 14 |
+| Missing Coupon Codes | 309 |
+| Duplicate Records | 0 |
 | Cleaned Dataset | ✅ |
 
 ---
@@ -140,9 +139,7 @@ Export Clean Dataset
 
 # 🖼️ Project Workflow Diagram
 
-<p align="center">
-  <img src="Data cleaning workflow infographic.png" alt="Project Workflow" width="900"/>
-</p>
+![Project Workflow](Data%20cleaning%20workflow%20infographic.png)
 
 ---
 
@@ -222,7 +219,7 @@ Run all cells sequentially.
 - ✔ Checked duplicate records
 - ✔ Validated business rules
 - ✔ Created `Expected_Total` validation column
-- ✔ Detected outliers using the IQR Method
+- ✔ Detected outliers using the IQR method
 - ✔ Exported the cleaned dataset
 
 ---
@@ -284,17 +281,17 @@ This project was developed for educational and portfolio purposes as part of my 
 
 # 👨‍💻 Author
 
-## Shakeel Ahmad
+**Shakeel Ahmad**
 
 - 🎓 Software Engineering Student
 - 📊 Aspiring Data Analyst
-- 💻 Python | SQL | Pandas | Data Analytics Enthusiast
+- 💻 Python & SQL Enthusiast
 
 ---
 
 ## ⭐ Support
 
-If you found this project helpful, please consider giving it a **⭐ Star**.
+If you found this project helpful, please consider **starring ⭐ this repository**.
 
 Feedback, suggestions, and contributions are always welcome!
 
@@ -302,7 +299,6 @@ Let's connect and discuss **Python, Data Analytics, Pandas, SQL, Machine Learnin
 
 ---
 
-## 🔖 Topics
+### 🔖 Tags
 
 `Python` `Pandas` `NumPy` `Jupyter Notebook` `Data Cleaning` `Data Preprocessing` `Data Analytics` `EDA` `Excel` `OpenPyXL` `GitHub` `Portfolio` `DecodeLabs`
-````
